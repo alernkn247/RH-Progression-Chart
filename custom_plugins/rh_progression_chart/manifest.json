@@ -4,7 +4,7 @@
     "author": "Alen (alernkn247)",
     "license": "MIT",
     "description": "Live pilot progression charts: fastest lap and best 3 consecutive laps per race, filterable by class and pilot",
-    "documentation_uri": "https://github.com/alernkn247/rh_progression_chart/",
+    "documentation_uri": "https://github.com/alernkn247/RH-Progression-Chart/",
     "required_rhapi_version": "1.2",
     "version": "0.1.0"
 }
