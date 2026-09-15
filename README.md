@@ -2,6 +2,10 @@
 
 Live pilot progression charts served directly from your RotorHazard timer.
 
+![Fastest lap per race chart](docs/screenshot-fastest-lap.png)
+
+![Best 3 consecutive laps per race chart with stats cards](docs/screenshot-consecutives.png)
+
 ## What it does
 
 Adds a `/progression` page to your timer's web interface showing:
