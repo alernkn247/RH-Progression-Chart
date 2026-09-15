@@ -1,4 +1,4 @@
-# rh_progression_chart — Progression Charts plugin for RotorHazard
+# RH-Progression-Chart — Progression Charts plugin for RotorHazard
 
 Live pilot progression charts served directly from your RotorHazard timer.
 
