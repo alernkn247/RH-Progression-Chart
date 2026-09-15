@@ -1,0 +1,10 @@
+{
+    "domain": "rh_progression_chart",
+    "name": "Progression Charts",
+    "author": "Alen (alernkn247)",
+    "license": "MIT",
+    "description": "Live pilot progression charts: fastest lap and best 3 consecutive laps per race, filterable by class and pilot",
+    "documentation_uri": "https://github.com/alernkn247/rh_progression_chart/",
+    "required_rhapi_version": "1.2",
+    "version": "0.1.0"
+}
